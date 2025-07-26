@@ -41,7 +41,3 @@ The extension uses a content script that:
 2. Removes `.ytd-rich-shelf-renderer` sections that contain Shorts content
 3. Uses MutationObserver to handle dynamic content loading
 4. Responds to navigation changes in YouTube's SPA
-
-## Note
-
-You'll need to replace the icon placeholder files with actual PNG icons before publishing or distributing the extension.
